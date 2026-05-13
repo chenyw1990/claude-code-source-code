@@ -907,7 +907,7 @@ This source code demonstrates 12 layered mechanisms that a production AI agent h
 | **Lazy Schema** | `lazySchema()` | Defer Zod schema evaluation for performance |
 | **Context Isolation** | `AsyncLocalStorage` | Per-agent context in shared process |
 
----
+---  
 
 ## Build Notes
 
